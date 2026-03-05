@@ -6,6 +6,13 @@
 
 ---
 
+## 🏆 Hackathons
+
+- Participated in Canada Hack 2026
+- Participated in Gemini Live Hackathon 2026
+
+---
+
 ## 🚀 About Me
 - 🔭 Currently working on AI & LLM projects
 - 🌱 Learning distributed systems and cloud architecture
@@ -31,11 +38,11 @@ Docker • AWS • Git
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=liamdo12&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=liamdo12&show_icons=true&theme=tokyonight)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamdo12&layout=compact)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamdo12&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/liamdo12/liamdo12/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/liamdo12/liamdo/output/github-contribution-grid-snake.svg)
 
 ---
 
