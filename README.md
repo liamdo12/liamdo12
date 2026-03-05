@@ -1,4 +1,4 @@
-# Hi 👋, I'm Luan Do
+# Hi 👋, I'm Liam Do
 
 🎓 Master of Applied Computing @ Wilfrid Laurier University  
 💻 Former Software Engineer @ National Australia Bank  
@@ -34,18 +34,12 @@ Node.js • GraphQL • REST APIs • Rails • ASP.NET • Spring Boot • Nest
 **Cloud & Tools**
 Docker • AWS • Git 
 
----
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=liamdo12&show_icons=true&theme=tokyonight)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liamdo12&layout=compact&theme=tokyonight)
-
-![snake gif](https://raw.githubusercontent.com/liamdo12/liamdo/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect with me
 
 LinkedIn: https://linkedin.com/in/liamdo12
+
+
+![snake gif](https://raw.githubusercontent.com/liamdo12/liamdo/output/github-contribution-grid-snake.svg)
