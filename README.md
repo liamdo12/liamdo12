@@ -22,17 +22,17 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-Java • C# • JavaScript • TypeScript • Python • SQL • Ruby  
+**Languages**  
+Java • C# • JavaScript • TypeScript • Python • SQL • Ruby
 
-**Frontend**
-React • Next.js • Vue • Svelte   
+**Frontend**  
+React • Next.js • Vue • Svelte
 
-**Backend**
+**Backend**  
 Node.js • GraphQL • REST APIs • Rails • ASP.NET • Spring Boot • NestJS
 
-**Cloud & Tools**
-Docker • AWS • Git 
+**Cloud & Tools**  
+Docker • AWS • Git
 
 
 ---
