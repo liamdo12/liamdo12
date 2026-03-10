@@ -8,7 +8,7 @@
 
 ## 🏆 Hackathons
 
-- Participated in Canada Hack 2026
+- 🥇 **Winner – MLH x ElevenLabs: Best Project Built with ElevenLabs** at **Hack Canada 2026** — [Dubbify](https://devpost.com/software/dubbify)
 - Participated in Gemini Live Hackathon 2026
 
 ---
